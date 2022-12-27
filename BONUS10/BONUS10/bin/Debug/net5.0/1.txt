@@ -1,1 +1,1 @@
-S->AB|CD A->EF G->AD D-> d|Cd|C F->a|b|c C->c
+S->AB|CD A->EF G->AD D->d|Cd|C F->a|b|c C->c
