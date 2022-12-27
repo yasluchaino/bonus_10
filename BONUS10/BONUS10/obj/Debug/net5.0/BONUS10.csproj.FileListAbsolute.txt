@@ -1,0 +1,16 @@
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.exe
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.deps.json
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.runtimeconfig.json
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.runtimeconfig.dev.json
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.dll
+D:\BONUS10\BONUS10\bin\Debug\net5.0\ref\BONUS10.dll
+D:\BONUS10\BONUS10\bin\Debug\net5.0\BONUS10.pdb
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.csprojAssemblyReference.cache
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.GeneratedMSBuildEditorConfig.editorconfig
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.AssemblyInfoInputs.cache
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.AssemblyInfo.cs
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.csproj.CoreCompileInputs.cache
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.dll
+D:\BONUS10\BONUS10\obj\Debug\net5.0\ref\BONUS10.dll
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.pdb
+D:\BONUS10\BONUS10\obj\Debug\net5.0\BONUS10.genruntimeconfig.cache
